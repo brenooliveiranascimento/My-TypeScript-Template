@@ -1,4 +1,4 @@
-# Projeto com TypeScript e EsLint pré configurado!
+# Projeto com TypeScript e EsLint pré configurados!
 
 <h2>Fique a vontade para clona-lo :)</h2>
 
